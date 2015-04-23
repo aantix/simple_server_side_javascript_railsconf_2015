@@ -1,0 +1,3 @@
+== Railconf 2015: Your Front-end Framework is Overkill - Server Side Javascript Responses w/ Rails
+
+This is the sample app that we built in session that demonstrates a simple dynamic (ajax) site implemented with just plain Rails js server responses.
